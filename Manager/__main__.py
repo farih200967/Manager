@@ -20,17 +20,17 @@ from Manager.modules.helper_funcs.chat_status import is_user_admin
 from Manager.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-Hello {}, my name is {}!
+Hello {username }, my name is miuna!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+My owner is [Aditya 🇮🇳](t.me/kaizakio)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+Hey there! My name is *miuna*.
 Group Management Bot with advanced features. 
 *Main* commands available:
  - /start: start the bot
